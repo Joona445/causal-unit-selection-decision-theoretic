@@ -2,8 +2,15 @@
 
 Official Python replication code and supplementary materials for the paper: **"A Decision-Theoretic Extension of Causal Unit Selection: Identifiability, Threshold Rules, and the Fallacy of Naive Benefit Rates"**.
 
-[![DOI](https://zenodo.org)](https://doi.org)
-[![License: CC BY-NC 4.0](https://shields.io)](https://creativecommons.org)
+<p align="left">
+  <a href="https://zenodo.org/records/22962244">
+    <img src="https://shields.io" alt="Zenodo Record">
+  </a>
+  <a href="https://creativecommons.org">
+    <img src="https://shields.io" alt="License">
+  </a>
+</p>
+
 
 ---
 
