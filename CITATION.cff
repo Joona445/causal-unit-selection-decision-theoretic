@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this framework, source code, or replication material, please cite the associated preprint."
+title: "A Decision-Theoretic Extension of Causal Unit Selection: Identifiability, Threshold Rules, and the Fallacy of Naive Benefit Rates"
+type: software
+
+authors:
+  - family-names: "Eskelinen"
+    given-names: "Joona Matti Ensio"
+
+version: "4"
+date-released: "2026-09-25"
+
+doi: "10.5281/zenodo.22962244"
+
+repository-code: "https://github.com/Joona445/causal-unit-selection-decision-theoretic"
+
+url: "https://doi.org/10.5281/zenodo.22962244"
+
+license: "CC-BY-NC-4.0"
+
+preferred-citation:
+  type: article
+  title: "A Decision-Theoretic Extension of Causal Unit Selection: Identifiability, Threshold Rules, and the Fallacy of Naive Benefit Rates"
+  authors:
+    - family-names: "Eskelinen"
+      given-names: "Joona Matti Ensio"
+  year: 2026
+  doi: "10.5281/zenodo.22962244"
+  publisher:
+    name: "Zenodo"
