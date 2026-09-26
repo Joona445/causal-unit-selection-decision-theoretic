@@ -6,7 +6,7 @@ Official Python replication code and supplementary materials for the paper: **"A
   <a href="https://zenodo.org/records/22962244">
     <img src="https://shields.io" alt="Zenodo Record">
   </a>
-  <a href="https://creativecommons.org">
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">
     <img src="https://shields.io" alt="License">
   </a>
 </p>
