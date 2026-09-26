@@ -254,7 +254,7 @@ Repository Structure
 
 .
 ├── core/
-│   └── theorems.py
+│   └── unit_selection_theorems.py
 ├── replication_scripts/
 │   ├── market_validation_scripts.py
 │   ├── v3_guardrail_validate.py
@@ -269,7 +269,7 @@ A_Decision_Theoretic_Extension_of_Causal_Unit_Selection_v4.pdf
 
 Full Version 4 preprint containing T5–T9, the LLM Agent Autonomy Guardrail, the strategic Stackelberg extension, Theorems T10–T13, real-data validation, convergence experiments, and the documented open uniqueness boundary.
 
-core/theorems.py
+core/unit_selection_theorems.py
 
 Core implementation of the causal unit-selection bounding theorems and associated computational framework.
 
