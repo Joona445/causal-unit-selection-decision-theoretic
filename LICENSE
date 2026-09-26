@@ -1,6 +1,40 @@
-Creative Commons Attribution-NonCommercial 4.0 International Public License
+Creative Commons Attribution-NonCommercial 4.0 International
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Materials available under these terms and conditions.
+Copyright (c) 2026 Joona Matti Ensio Eskelinen
 
-A full copy of the legal code can be verified online at:
-https://creativecommons.org/licenses/by-nc/4.0/deed.en
+This repository, including the associated research materials, documentation,
+source code, replication scripts, figures, and supplementary materials, is
+licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0), unless otherwise explicitly stated.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+
+- Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your use.
+
+- NonCommercial — You may not use the material for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+The full legal terms of the Creative Commons Attribution-NonCommercial 4.0
+International License are available at:
+
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+For commercial licensing, commercial implementation, or permissions beyond
+the scope of CC BY-NC 4.0, contact the copyright holder.
+
+Associated research record:
+
+Final Version 4:
+https://doi.org/10.5281/zenodo.22962244
+
+All versions / Concept DOI:
+https://doi.org/10.5281/zenodo.22934160
