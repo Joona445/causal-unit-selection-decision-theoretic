@@ -9,7 +9,7 @@ This repository contains the official Python replication code and supplementary 
 
 **A Decision-Theoretic Extension of Causal Unit Selection: Identifiability, Threshold Rules, and the Fallacy of Naive Benefit Rates**
 
-**Author:** Joona Matti Ensio Eskelinen  
+**Author:** Eskelinen J.M.E  
 **Year:** 2026  
 **Current version:** Version 4 / Final  
 **Zenodo DOI (Final Version 4):** https://doi.org/10.5281/zenodo.22962244  
