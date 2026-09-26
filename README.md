@@ -44,7 +44,6 @@ If you use this framework, the replication code, or references to the generalize
   version={Version 4},
   doi={10.5281/zenodo.22962244},
   url={https://doi.org}
-}
 ```
 
 ---
