@@ -259,3 +259,114 @@ The computational results reported in this repository establish behavior in the 
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
+
+A_Decision_Theoretic_Extension_of_Causal_Unit_Selection_v4.pdf
+
+Full Version 4 preprint containing T5–T9, the LLM Agent Autonomy Guardrail, the strategic Stackelberg extension, Theorems T10–T13, real-data validation, convergence experiments, and the documented open uniqueness boundary.
+
+unit_selection_theorems.py
+
+Original replication script containing the algorithmic implementation of the causal unit-selection bounding theorems and TWINS validation procedures.
+
+market_validation_scripts.py
+
+Replication code for the synthetic financial-market DGP and public yfinance validation.
+
+v3_guardrail_validate.py
+
+Version 3 replication script for the T8/T9 LLM autonomy gate, including the original Monte Carlo and dataset validation procedures.
+
+v4_validate.py
+
+Version 4 validation script containing the strategic-response experiments and computational verification for the Version 4 extension, including:
+
+* T10 robustness experiments,
+* T12 fixed-point and convergence checks,
+* strategic FiFAR evaluations,
+* Lending Club evaluations,
+* Stackelberg verification,
+* negative controls, and
+* numerical investigation of the open uniqueness boundary.
+
+No additional Version 4 replication scripts are required beyond v4_validate.py. Version 4 builds on the existing Version 3 replication files.
+
+⸻
+
+Reproducibility
+
+The Python scripts in this repository provide the computational experiments and replication procedures associated with the preprint.
+
+Some validations rely on external public datasets or data sources. Users should obtain any required third-party datasets in accordance with their respective licenses and terms of use.
+
+The permanently archived research record, including the Version 4 preprint and replication scripts, is available through Zenodo:
+
+Final Version 4:
+https://doi.org/10.5281/zenodo.22962244
+
+All versions / latest version:
+https://doi.org/10.5281/zenodo.22934160
+
+⸻
+
+Version History
+Version
+
+Zenodo DOI
+
+Version 1.0.0
+
+https://doi.org/10.5281/zenodo.22934161
+
+Version 2
+
+https://doi.org/10.5281/zenodo.22953924
+
+Version 3
+
+https://doi.org/10.5281/zenodo.22958342
+
+Version 4 / Final
+
+https://doi.org/10.5281/zenodo.22962244
+
+All versions
+
+https://doi.org/10.5281/zenodo.22934160
+Citation
+The current repository corresponds to Version 4 / Final of the preprint.
+
+If you use this framework, source code, or replication material, please cite the associated preprint:
+
+Eskelinen, J. M. E. (2026). A Decision-Theoretic Extension of Causal Unit Selection: Identifiability, Threshold Rules, and the Fallacy of Naive Benefit Rates. (Version Final). Zenodo. https://doi.org/10.5281/zenodo.22962244
+
+For references intended to resolve to the latest version of the work, use the all-versions DOI:
+
+https://doi.org/10.5281/zenodo.22934160
+
+⸻
+
+License
+
+Copyright © 2026 Joona Matti Ensio Eskelinen.
+
+The materials in this repository are made available under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
+
+You may share and adapt the licensed material for non-commercial purposes, provided appropriate attribution is given and the applicable license terms are followed.
+
+Commercial use is not permitted under CC BY-NC 4.0.
+
+See the LICENSE⁠￼ file for license information.
+
+For commercial licensing or permissions beyond the scope of CC BY-NC 4.0, contact the author.
+
+⸻
+
+Permanent Research Record
+
+The authoritative archived research record is maintained on Zenodo.
+
+Final Version 4
+https://doi.org/10.5281/zenodo.22962244
+
+All versions / persistent concept DOI
+https://doi.org/10.5281/zenodo.22934160
