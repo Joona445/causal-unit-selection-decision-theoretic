@@ -9,12 +9,6 @@ This repository contains the official Python replication code and supplementary 
 
 **A Decision-Theoretic Extension of Causal Unit Selection: Identifiability, Threshold Rules, and the Fallacy of Naive Benefit Rates**
 
-**Author:** Eskelinen J.M.E  
-**Year:** 2026  
-**Current version:** Version 4 / Final  
-**Zenodo DOI (Final Version 4):** https://doi.org/10.5281/zenodo.22962244  
-**Zenodo DOI (all versions):** https://doi.org/10.5281/zenodo.22934160
-
 The framework extends causal unit selection into a decision-theoretic setting under counterfactual uncertainty. It develops explicit decision and abstention rules, studies their statistical reliability, extends the framework to AI-agent autonomy decisions, and analyzes strategic adaptation when deployed decision rules become observable to the environment.
 
 Version 4 extends the Version 3 autonomy framework to strategic environments. It studies how observable success margins may become endogenous after deployment and examines when post-deployment re-estimation restores the safety properties of the original autonomy gate.
@@ -363,6 +357,12 @@ See the [`LICENSE`](LICENSE) file for license information.
 For commercial licensing, commercial implementation, or permissions beyond the scope of CC BY-NC 4.0, contact the copyright holder.
 
 ---
+
+**Author:** Eskelinen J.M.E  
+**Year:** 2026  
+**Current version:** Version 4 / Final  
+**Zenodo DOI (Final Version 4):** https://doi.org/10.5281/zenodo.22962244  
+**Zenodo DOI (all versions):** https://doi.org/10.5281/zenodo.22934160
 
 ## Permanent Research Record
 
